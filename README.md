@@ -17,13 +17,6 @@ I'm **Navindya Denipitiya** — a tech enthusiast and aspiring developer who’s
 
 ---
 
-### 💬 Ask me about:
-- JavaScript
-- HTML/CSS
-- Git & GitHub
-
----
-
 ### 📫 How to reach me:
 📧 **Email:** navindyadenipitiya@gmail.com  
 🔗 *(Add LinkedIn or other social links if you'd like)*
