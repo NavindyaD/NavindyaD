@@ -19,7 +19,7 @@ I'm **Navindya Denipitiya** — a tech enthusiast and aspiring developer who’s
 
 ### 📫 How to reach me:
 📧 **Email:** navindyadenipitiya@gmail.com  
-🔗 *(Add LinkedIn or other social links if you'd like)*
+🔗 **LinkedIn:** [linkedin.com/in/nicolle-denipitiya-43b4a9231](https://www.linkedin.com/in/nicolle-denipitiya-43b4a9231/)
 
 ---
 
